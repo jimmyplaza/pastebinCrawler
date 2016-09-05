@@ -1,2 +1,2 @@
 # pastebinCrawler
-pastebin.com cralwer
+pastebin.com cralwer & text extration
