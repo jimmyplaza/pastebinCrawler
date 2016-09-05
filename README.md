@@ -1,2 +1,2 @@
 # pastebinCrawler
-pastebin.com cralwer & text extration
+pastebin.com cralwer & textrank keywords extraction
