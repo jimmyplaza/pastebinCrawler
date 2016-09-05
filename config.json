@@ -1,0 +1,19 @@
+{
+    "root_url": "http://pastebin.com",
+    "raw_url": "http://pastebin.com/raw.php?i=",
+    "elk_host": "ericlinstudy",
+    "elk_port": "9200",
+    "elk_index": "testpastebin",
+    "elk_type": "paste",
+    "keyWordNum": "30",
+
+    "mongo_host": "localhost",
+    "mongo_port": "27017",
+    "configPath": "keyword.cfg",
+
+    "_comment": "configPath /home/Jimmy/pastebinCrawler/keyword.cfg",
+    "_comment": "elk_index pastebin2"
+}
+
+
+
